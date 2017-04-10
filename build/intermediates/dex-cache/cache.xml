@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_5a33f400cac031cc0f651b7f7ad71db7ff225e8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_85ad4d6bb4a591c1e15d2cb09325f447a1a46f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ad86e1cce4319ca4ec81e9ad3fb0c55951f8e88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_8d1add6147a97ba7c031f6acfcfca160e5ed853b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ff1f2503ab0b39e816f7e4aca81c3e1aaa416125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c6ad6f117d91074e1cb16d001ab40a163d4f6e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_60005d0e97c1d783b0b0d04c1447eb716f02a60c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ffc6d21be2f983fe14c28b8e3646b5f8e8c1f1bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ffe438d76afddf6e7745b1bc8e341b43771b76d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78e1c7b7b75877dc6ddc401843ae828dd063cb4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecbefe5f8c78c24e1f458f78e47a96d87b861290">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e521970c67a313dd60ca2b7da836f56a93b05425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2c3d6a915ce3abbc88fc4c201cc8fe15dc2c8d19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programs\AndriodSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_eca1f9a9545503626f6e8bbf93e48c1128d75ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_483f43ae09ac091ae09d226cab1ff75da80aa9cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6280542d04be10e84f73733ad51d36b1ee4b7b03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7937a895c62cfa5b0eeb05b01aca8277e7da2105">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e46fc559053bd2e7b563dbd8697c7a40de64730\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\NikoPC\Documents\homework 2016\Projects\AD340ClassProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ff2779fa20286c1ed1a2444c11beae979533a9a6\classes.dex" />
+    </item>
+
+</items>
