@@ -28,7 +28,7 @@
         android:layout_marginLeft="45dp"
         android:layout_marginRight="16dp"
         android:onClick="sendMessage"
-        android:text="Send"
+        android:text="@string/button_send"
         app:layout_constraintBaseline_toBaselineOf="@+id/editText"
         app:layout_constraintLeft_toRightOf="@+id/editText"
         app:layout_constraintRight_toRightOf="parent"
