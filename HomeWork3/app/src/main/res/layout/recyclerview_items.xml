@@ -6,13 +6,14 @@
 
     <TextView
         android:id="@+id/subject_textview"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="left"
-        android:layout_marginBottom="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginTop="7dp"
-        android:textColor="@color/colorPrimary"
+        android:layout_marginBottom="7dp"
+        android:layout_gravity="left"
         android:textSize="20dp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        />
 
 </LinearLayout>
