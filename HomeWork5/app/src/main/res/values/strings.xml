@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork4</string>
+    <string name="menu_action_setting">Setting</string>
+    <string name="menu_action_about_us">RecyclerViewFish</string>
+    <string name="action_recyclerview">RecyclerView</string>
+    <string name="action_home">action_home</string>
+    <string name="dialog_message">Hello, this is a Dialog Box</string>
+    <string name="dialog_title">Dialog Box</string>
+</resources>
